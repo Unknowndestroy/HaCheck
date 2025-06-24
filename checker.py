@@ -1,3 +1,5 @@
+# Licensed under Unknown Destroyer Limited Personal Use License (UDLPL-v1.0)
+
 import os
 import threading
 import time
